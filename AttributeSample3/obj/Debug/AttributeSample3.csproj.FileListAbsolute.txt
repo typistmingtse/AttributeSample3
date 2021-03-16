@@ -1,0 +1,13 @@
+\\mac\home\documents\visual studio 2017\Projects\AttributeSample3\AttributeSample3\bin\Debug\AttributeSample3.exe.config
+\\mac\home\documents\visual studio 2017\Projects\AttributeSample3\AttributeSample3\bin\Debug\AttributeSample3.exe
+\\mac\home\documents\visual studio 2017\Projects\AttributeSample3\AttributeSample3\bin\Debug\AttributeSample3.pdb
+\\mac\home\documents\visual studio 2017\Projects\AttributeSample3\AttributeSample3\obj\Debug\AttributeSample3.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\AttributeSample3\AttributeSample3\obj\Debug\AttributeSample3.exe
+\\mac\home\documents\visual studio 2017\Projects\AttributeSample3\AttributeSample3\obj\Debug\AttributeSample3.pdb
+D:\SourceCode\repos\DesignPattern\AttributeSample3\AttributeSample3\bin\Debug\AttributeSample3.exe.config
+D:\SourceCode\repos\DesignPattern\AttributeSample3\AttributeSample3\bin\Debug\AttributeSample3.exe
+D:\SourceCode\repos\DesignPattern\AttributeSample3\AttributeSample3\bin\Debug\AttributeSample3.pdb
+D:\SourceCode\repos\DesignPattern\AttributeSample3\AttributeSample3\obj\Debug\AttributeSample3.csproj.CoreCompileInputs.cache
+D:\SourceCode\repos\DesignPattern\AttributeSample3\AttributeSample3\obj\Debug\AttributeSample3.exe
+D:\SourceCode\repos\DesignPattern\AttributeSample3\AttributeSample3\obj\Debug\AttributeSample3.pdb
+D:\SourceCode\repos\DesignPattern\AttributeSample3\AttributeSample3\obj\Debug\AttributeSample3.csprojAssemblyReference.cache
